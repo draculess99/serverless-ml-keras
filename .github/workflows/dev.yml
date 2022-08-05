@@ -12,9 +12,10 @@
 
 name: Deploy Dev
 on:
+  pull_request:
   push:
     branches:
-      - keras
+      - main
 jobs:
   deploy-dev:
     runs-on: ubuntu-latest
