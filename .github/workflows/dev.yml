@@ -5,7 +5,7 @@
 # If you're using env.yml file, store its content as ENV Github secret
 #
 # Master branch will be deployed as DEV and every new tag starting with "v**" (e.g. v1.0, v1.2, v2.0, etc) will be deployed as PROD
-#
+# twst
 # Learn more: https://maxkostinevich.com/blog/how-to-deploy-serverless-applications-using-github-actions/
 #
 
